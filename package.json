@@ -1,7 +1,7 @@
 {
-  "name": "astro-component-name",
+  "name": "astro-unofficial-component",
   "version": "0.1.0",
-  "description": "A astro component template",
+  "description": "An unofficial astro component template",
   "type": "module",
   "exports": {
     ".": "./index.ts"
